@@ -1,0 +1,11 @@
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\bin\Debug\netcoreapp2.0\web.deps.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\bin\Debug\netcoreapp2.0\web.runtimeconfig.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\bin\Debug\netcoreapp2.0\web.runtimeconfig.dev.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\bin\Debug\netcoreapp2.0\web.dll
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\bin\Debug\netcoreapp2.0\web.pdb
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.csprojAssemblyReference.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.csproj.CoreCompileInputs.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.AssemblyInfoInputs.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.AssemblyInfo.cs
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.dll
+C:\Users\Ygor Vieira\source\repos\LojaLivros\web\obj\Debug\netcoreapp2.0\web.pdb

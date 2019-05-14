@@ -1,0 +1,11 @@
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\bin\Debug\netcoreapp2.0\LojaLivros.deps.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\bin\Debug\netcoreapp2.0\LojaLivros.runtimeconfig.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\bin\Debug\netcoreapp2.0\LojaLivros.runtimeconfig.dev.json
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\bin\Debug\netcoreapp2.0\LojaLivros.dll
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\bin\Debug\netcoreapp2.0\LojaLivros.pdb
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.csprojAssemblyReference.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.csproj.CoreCompileInputs.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.AssemblyInfoInputs.cache
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.AssemblyInfo.cs
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.dll
+C:\Users\Ygor Vieira\source\repos\LojaLivros\LojaLivros\obj\Debug\netcoreapp2.0\LojaLivros.pdb
