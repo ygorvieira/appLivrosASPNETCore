@@ -1,28 +1,29 @@
 ﻿using LojaLivros.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace LojaLivros.Respositories
 {
-    public class ProdutoRepository : IProdutoRepository
+    public class ProdutoRepository : BaseRepository<Produto>, IProdutoRepository
     {
-        private readonly ApplicationContext contexto;
-
-        public ProdutoRepository(ApplicationContext contexto)
+        public ProdutoRepository(ApplicationContext contexto) : base(contexto)
         {
-            this.contexto = contexto;
         }
 
         public IList<Produto> GetProdutos()
         {
-            return contexto.Set<Produto>().ToList();
+            return dbSet.ToList();
         }
 
         public void SaveProdutos(List<Livro> livros)
         {
             foreach (var livro in livros)
             {
-                contexto.Set<Produto>().Add(new Produto(livro.Codigo, livro.Nome, livro.Preco));
+                if (!dbSet.Where(p => p.Codigo == livro.Codigo).Any())
+                {
+                    dbSet.Add(new Produto(livro.Codigo, livro.Nome, livro.Preco));
+                }
             }
             contexto.SaveChanges();
         }
